@@ -41,6 +41,8 @@ main {
 }
 .logo {
   width: 100px;
+  border-radius: 10px;
+}
 }
 h2 {
   font-family: "Hind Madurai", sans-serif;
